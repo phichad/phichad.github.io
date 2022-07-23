@@ -10,18 +10,31 @@
 [UX/UI Design Portfolio](docs/UX_UI_HW_17.md)    [Art Insta](https://www.instagram.com/phichadbourn/)    [UX/UI Insta](https://www.instagram.com/philixuxui/)    [Threadless Shop](https://philix.threadless.com/)    [Behance](https://www.behance.net/philixchadbourn)    [LinkedIn](https://www.linkedin.com/in/philix-chadbourn-97939893)
 
 
+```markdown
 ### UX/UI Design Projects
 
 
+```
 
+
+```markdown
 ### Drawings & Paintings
 
 
+```
 
+
+```markdown
 ### Photography
 
 
+```
 
+
+```markdown
 ### Sculpture
+
+
+```
 
 
